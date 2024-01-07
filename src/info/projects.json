@@ -2,7 +2,7 @@
   {
     "title": "E-commerce",
     "body": "Developed a user-friendly e-commerce platform with secure authentication, intuitive navigation, and a smooth checkout process. Prioritized responsive design for optimal user experience across devices.",
-    "tags": ["Html", "Css", "Js", "Tailwindcss", "AlpineJs", "Vue", "PHP", "Laravel", "MySQL"],
+    "tags": ["Html", "Css", "Js", "TailwindCss", "AlpineJs", "Vue", "PHP", "Laravel", "MySQL"],
     "source": "https://github.com/aungmoe32/ecommerce"
   },
   {
@@ -16,5 +16,11 @@
     "body": "Developed a lightweight and customizable PHP MVC (Model-View-Controller) framework for building web applications. The framework follows MVC architectural patterns to ensure separation of concerns and maintainability.",
     "tags": ["PHP"],
     "source": "https://github.com/aungmoe32/pam"
+  },
+  {
+    "title": "Portfolio",
+    "body": "This Page! A VueJS-based, responsive webpage that leverages JSON data to create components, offering clean UI.",
+    "tags": ["Html" , "Css", "TailwindCss", "Vue"],
+    "source": "https://github.com/aungmoe32/portfolio"
   }
 ]
