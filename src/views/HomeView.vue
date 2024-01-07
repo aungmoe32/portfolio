@@ -8,7 +8,7 @@ const projects = reactive(info)
 </script>
 <template>
   <div class="bg-[#21262A] text-white">
-    <div class="max-w-[1000px] mx-auto px-20 py-10">
+    <div class="max-w-[1000px] mx-auto px-7 py-10">
       <div class="flex items-end">
         <span class="font-bold text-3xl font-mono"> Aung Moe Myint Thu </span>
         <div class="ml-2 w-5 h-2 bg-white animate-fade-cursor"></div>
