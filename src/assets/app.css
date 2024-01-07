@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body {
+    /*        font-family: 'Ubuntu Mono';*/
+    /*        height: 100%;*/
+    /*        font-family: 'Open Sans', sans-serif;*/
+    /*        font-family: Roboto;*/
+    @apply font-sans;
+  }
+}

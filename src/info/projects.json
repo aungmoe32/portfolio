@@ -1,0 +1,20 @@
+[
+  {
+    "title": "E-commerce",
+    "body": "Developed a user-friendly e-commerce platform with secure authentication, intuitive navigation, and a smooth checkout process. Prioritized responsive design for optimal user experience across devices.",
+    "tags": ["Html", "Css", "Js", "Tailwindcss", "AlpineJs", "Vue", "PHP", "Laravel", "MySQL"],
+    "source": "https://github.com/aungmoe32/ecommerce"
+  },
+  {
+    "title": "Learning Management System",
+    "body": "Designed and implemented a Learning Management System (LMS) for seamless course management, user authentication, and an intuitive learning journey. Focused on simplicity and efficiency to enhance online education experiences",
+    "tags": ["Html", "Css", "Js", "Vue", "Vuetify", "PHP", "Laravel", "MySQL"],
+    "source": "https://github.com/aungmoe32/lms"
+  },
+  {
+    "title": "Tiny PHP MVC framework",
+    "body": "Developed a lightweight and customizable PHP MVC (Model-View-Controller) framework for building web applications. The framework follows MVC architectural patterns to ensure separation of concerns and maintainability.",
+    "tags": ["PHP"],
+    "source": "https://github.com/aungmoe32/pam"
+  }
+]
