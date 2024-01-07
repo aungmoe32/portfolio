@@ -9,7 +9,7 @@ const { title, body, tags, source } = defineProps({
 <template>
   <div class="p-5 bg-primary rounded-md mb-5">
     <div class="text-xl font-bold">{{ title }}</div>
-    <div class="text-xs my-4 opacity-80">
+    <div class="text-xs my-4 opacity-80 leading-5">
       {{ body }}
     </div>
     <div class="flex flex-wrap mb-4">
