@@ -8,7 +8,7 @@ export function useJsonPrettier(json) {
       if (/^"/.test(match)) {
         if (/:$/.test(match)) {
           // key
-          cls = 'text-green-400'
+          cls = 'text-red-400'
           match = `${match.replace(':', '')}<span class="text-white"> :</span>`
         } else {
           // string
