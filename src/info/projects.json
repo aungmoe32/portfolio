@@ -1,5 +1,11 @@
 [
   {
+    "title": "Simple Oauth Passport Server and Client",
+    "body": "Designed and Implemented a Secure OAuth 2.0 Authentication System using Laravel Passport: Developed both OAuth Server and Client, showcasing expertise in advanced user authentication and authorization mechanisms.",
+    "tags": ["TailwindCss", "Laravel Passport"],
+    "source": "https://github.com/aungmoe32/passport-server"
+  },
+  {
     "title": "E-commerce",
     "body": "Developed a user-friendly e-commerce platform with secure authentication, intuitive navigation, and a smooth checkout process. Prioritized responsive design for optimal user experience across devices.",
     "tags": ["Html", "Css", "Js", "TailwindCss", "AlpineJs", "Vue", "PHP", "Laravel", "MySQL"],

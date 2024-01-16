@@ -2,7 +2,8 @@
 
 https://portfolio-aungmoe32.vercel.app/
 
-
+### Techs
+- Vue3
 
 ## Project Setup
 
